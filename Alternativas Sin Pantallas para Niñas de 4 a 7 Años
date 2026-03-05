@@ -8,13 +8,14 @@
 <meta name="description" content="Descubre actividades y regalos sin pantallas para niñas de 4 a 7 años. Ideas creativas y educativas que fomentan imaginación, lectura y diversión en casa.">
 <link rel="canonical" href="https://nadia7601.github.io/unicornio-magico/alternativas-sin-pantallas-4-7-anos.html">
 
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W7WGZ5SPSB"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7ET5DPZNDN"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-W7WGZ5SPSB');
+
+  gtag('config', 'G-7ET5DPZNDN');
 </script>
 
 <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
