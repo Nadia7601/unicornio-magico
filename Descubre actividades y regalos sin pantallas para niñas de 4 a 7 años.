@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
- <!-- Google Analytics -->
+  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-W7WGZ5SPSB"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -10,75 +10,70 @@
     gtag('config', 'G-W7WGZ5SPSB');
   </script>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Alternativas Sin Pantallas para Niñas de 4 a 7 Años | Creativo y Educativo</title>
+  <title>Alternativas Sin Pantallas para Niñas de 4 a 7 Años | Creativo y Educativo</title>
 
-<meta name="description" content="Descubre actividades y regalos sin pantallas para niñas de 4 a 7 años. Ideas creativas y educativas que fomentan imaginación, lectura y diversión en casa.">
+  <meta name="description" content="Descubre actividades y regalos sin pantallas para niñas de 4 a 7 años. Ideas creativas y educativas que fomentan imaginación, lectura y diversión en casa.">
+  <meta name="robots" content="index, follow">
 
-<link rel="canonical" href="https://nadia7601.github.io/unicornio-magico/alternativas-sin-pantallas-4-7-anos.html">
+  <link rel="canonical" href="https://nadia7601.github.io/unicornio-magico/alternativas-sin-pantallas-4-7-anos.html">
 
-<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
 
-<style>
-body{
-font-family:'Quicksand',sans-serif;
-margin:0;
-background:#fff9fc;
-color:#333;
-line-height:1.7;
-}
-
-.container{
-max-width:900px;
-margin:auto;
-padding:40px 20px;
-}
-
-h1{
-color:#c2185b;
-font-size:2.2em;
-}
-
-h2{
-color:#d63384;
-margin-top:40px;
-}
-
-.button{
-display:inline-block;
-background:#ff4da6;
-color:white;
-padding:14px 28px;
-border-radius:8px;
-margin-top:20px;
-text-decoration:none;
-font-weight:700;
-}
-
-.button:hover{
-background:#e60073;
-}
-
-.cta-box{
-background:#fff0f6;
-padding:30px;
-border-radius:12px;
-margin-top:40px;
-text-align:center;
-}
-
-ul{
-padding-left:20px;
-}
-</style>
-
+  <style>
+    body{
+      font-family:'Quicksand',sans-serif;
+      margin:0;
+      background:#fff9fc;
+      color:#333;
+      line-height:1.7;
+    }
+    .container{
+      max-width:900px;
+      margin:auto;
+      padding:40px 20px;
+    }
+    h1{
+      color:#c2185b;
+      font-size:2.2em;
+    }
+    h2{
+      color:#d63384;
+      margin-top:40px;
+    }
+    .button{
+      display:inline-block;
+      background:#ff4da6;
+      color:white;
+      padding:14px 28px;
+      border-radius:8px;
+      margin-top:20px;
+      text-decoration:none;
+      font-weight:700;
+    }
+    .button:hover{
+      background:#e60073;
+    }
+    .cta-box{
+      background:#fff0f6;
+      padding:30px;
+      border-radius:12px;
+      margin-top:40px;
+      text-align:center;
+    }
+    ul{
+      padding-left:20px;
+    }
+  </style>
 </head>
 
 <body>
 
-<div class="container">
+<header></header>
+
+<main class="container">
 
 <h1>Alternativas Sin Pantallas para Niñas de 4 a 7 Años</h1>
 
@@ -87,7 +82,7 @@ En un mundo lleno de pantallas, encontrar alternativas divertidas y educativas p
 Estas actividades fomentan creatividad, aprendizaje y momentos compartidos en familia.
 </p>
 
-<h2>🎨 ¿Por qué elegir opciones sin pantallas?</h2>
+<h2><span aria-hidden="true">🎨</span> ¿Por qué elegir opciones sin pantallas?</h2>
 
 <ul>
 <li>Estimula imaginación y creatividad</li>
@@ -97,11 +92,9 @@ Estas actividades fomentan creatividad, aprendizaje y momentos compartidos en fa
 <li>Ofrece experiencias memorables y significativas</li>
 </ul>
 
-<h2>🦄 Actividades recomendadas</h2>
+<h2><span aria-hidden="true">🦄</span> Actividades recomendadas</h2>
 
-<p>
-Aquí tienes algunas ideas divertidas y educativas que puedes usar en casa:
-</p>
+<p>Aquí tienes algunas ideas divertidas y educativas que puedes usar en casa:</p>
 
 <ul>
 <li>📖 Kit Creativo Unicornio: libro para colorear, cartas mágicas y pósters</li>
@@ -112,23 +105,18 @@ Aquí tienes algunas ideas divertidas y educativas que puedes usar en casa:
 </ul>
 
 <div class="cta-box">
+  <h2>✨ Descubre nuestro Kit Sin Pantallas</h2>
+  <p>Haz que la creatividad sea el regalo principal y crea momentos únicos sin necesidad de tablets ni móviles.</p>
 
-<h2>✨ Descubre nuestro Kit Sin Pantallas</h2>
-
-<p>
-Haz que la creatividad sea el regalo principal y crea momentos únicos sin necesidad de tablets ni móviles.
-</p>
-
-<a href="https://galitube6.gumroad.com/l/vzgdv"
-target="_blank"
-class="button"
-onclick="gtag('event','clic_compra',{'event_category':'conversion','event_label':'blog_sin_pantallas'});">
-Comprar Kit Creativo 💖
-</a>
-
+  <a href="https://galitube6.gumroad.com/l/vzgdv"
+     target="_blank"
+     class="button"
+     onclick="gtag('event','clic_compra',{'event_category':'conversion','event_label':'blog_sin_pantallas'});">
+     Comprar Kit Creativo 💖
+  </a>
 </div>
 
-<h2>🌸 Ideal para:</h2>
+<h2><span aria-hidden="true">🌸</span> Ideal para:</h2>
 
 <ul>
 <li>Cumpleaños y sorpresas</li>
@@ -138,7 +126,7 @@ Comprar Kit Creativo 💖
 <li>Momentos de relajación creativa</li>
 </ul>
 
-<h2>📚 Beneficios educativos</h2>
+<h2><span aria-hidden="true">📚</span> Beneficios educativos</h2>
 
 <ul>
 <li>Desarrolla motricidad fina y coordinación</li>
@@ -153,11 +141,16 @@ Elegir alternativas sin pantallas es invertir en experiencias de aprendizaje y d
 </p>
 
 <p>
+Descubre también nuestro 
 <a href="https://nadia7601.github.io/unicornio-magico/regalo-original-nina-4-7-anos.html">
-Descubre también nuestro Kit Unicornio Creativo</a> y completa la experiencia mágica.
+<strong>Kit Unicornio Creativo para niñas de 4 a 7 años</strong>
+</a>
+y completa la experiencia mágica.
 </p>
 
-</div>
+</main>
+
+<footer></footer>
 
 </body>
 </html>
